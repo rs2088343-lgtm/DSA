@@ -1,1 +1,0 @@
-// here we have to hash with the help of map
